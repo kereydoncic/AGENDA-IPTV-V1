@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1,Arirang
+http://palawan.usbx.me:18920/blast/221018/master.m3u8
+
+#EXTINF:-1,BINI
+http://palawan.usbx.me:9898/bini/master.m3u8
+
+#EXTINF:-1,Blast Cinema
+http://palawan.usbx.me:18920/blast/252437/master.m3u8
+
+#EXTINF:-1,Blast Sports
+http://palawan.usbx.me:18920/blast/266217/master.m3u8
+
+#EXTINF:-1,Comic U
+http://palawan.usbx.me:18920/blast/219682/master.m3u8
+
+#EXTINF:-1,Dreamworks
+http://palawan.usbx.me:18920/blast/220979/master.m3u8
+
+#EXTINF:-1,Family Movies
+http://palawan.usbx.me:18920/blast/252438/master.m3u8
+
+#EXTINF:-1,Fight Tcket
+http://palawan.usbx.me:18920/blast/263052/master.m3u8
+
+#EXTINF:-1,LAFF
+http://palawan.usbx.me:18920/blast/219680/master.m3u8
+
+#EXTINF:-1,MTV 90s
+http://palawan.usbx.me:18920/blast/231575/master.m3u8
+
+#EXTINF:-1,Premier Football
+http://palawan.usbx.me:18920/blast/220960/master.m3u8
+
+#EXTINF:-1,Studio Unversal
+http://palawan.usbx.me:18920/blast/252436/master.m3u8
